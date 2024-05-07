@@ -1,0 +1,10 @@
+pyproject.toml
+setup.cfg
+Conversor.egg-info/PKG-INFO
+Conversor.egg-info/SOURCES.txt
+Conversor.egg-info/dependency_links.txt
+Conversor.egg-info/entry_points.txt
+Conversor.egg-info/requires.txt
+Conversor.egg-info/top_level.txt
+conversor/__init__.py
+conversor/conversor.py
